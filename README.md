@@ -25,6 +25,10 @@ La materia se articula con conocimientos previos de métodos predictivos, bases 
 - [Sesiones](sesiones/): apuntes organizados por clase y período de cursada.
 - [Fuentes](fuentes/): bibliografía y materiales de referencia.
 
+## Recursos complementarios
+
+- [Primer Parcial IA · FCE](https://claude.ai/artifact/DwWCLpYkLwNu5ZghQjTaRb) (Claude Artifact).
+
 El material se construye de forma colaborativa. Los apuntes son complementarios a las clases, la bibliografía y las indicaciones de la cátedra; no sustituyen fuentes institucionales ni criterios profesionales para decisiones basadas en datos o IA.
 
 ## Fuentes institucionales
