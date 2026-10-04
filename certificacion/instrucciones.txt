@@ -1,30 +1,36 @@
-Revisa el siguiente documento con las instrucciones del correo, debemos corregirlo, para lo cual debes presentar bloques con secciones: 1.-Texto original. 2.-Descripción del riesgo/problema y 3.-Propuesta de texto para reemplazar. Debes buscar textos que puedan implicar riesgos legales, operativos, financieros, seguridad y/o errores semánticos o contradicciones. 
+Estoy iniciando este escenario con la siguiente misión, te lo anexo para que lo tengas en el contexto, ten en cuenta que en las propuestas que hagas debes considerar que no se vea afectado el trabajo de algún empleado, sea que nuestra propuesta genere cuellos de botella o alguna recarga de tareas por no haberlo previsto en la propuesta, ahora te paso los mensajes para irle dando respuesta
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Revisa el siguiente documento que te anexo junto con las instrucciones del correo, debemos corregirlo, para lo cual debes presentar bloques con secciones:
+1.-Texto original.
+2.-Descripción del riesgo/problema y
+3.-Propuesta de texto para reemplazar.
+Además, en el documento debes buscar textos o párrafos que implicarían riesgos legales, operativos, financieros, de seguridad y/o errores semánticos o contradicciones. 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Realiza un resumen analítico y descriptivo de manera general o global del documento que incluya los riesgos y recomendaciones que describiste anteriormenmte
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Si este es un cierre del caso, entonces respondamos dándolo por cerrado de nuestra parte y despidiéndonos con un saludo cordial
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+¿Puedo dar por terminada la misión y dar por cerrado el día? ¿lo dejo por terminado y dejo avanzar el día o puedo agregar alguna decisión o acción?
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Vamos a responder al correo y ayúdame a seleccionar los documentos a adjuntarle de los siguientes:
+1.-Guía de modelado y descomposición de procesos v2
+2.-Guía de modelado y descomposición de procesos v1
+3.-Estructura de variables para automatización con IA
+4.-Mapeo del flujo de declaraciones juradas
+5.-Registro de excepciones en trámites impositivos
+6.-Bitácora de casos particulares de atención
+7.-Criterios de evaluación y revisión del trabajo de IA
+8.-Estudio demográfico de la población pasiva local
+9.-Manual de estilo de atención al vecino
+10.-Presupuesto anual del departamento de sistemas
+11.-Organigrama de dependencias de la Secretaría de Gobierno
+12.-Minuta de la reunión de coordinación impositiva provincial
+13.-Reglamento interno de asistencia del personal
+14.-Informe de conectividad y ancho de banda en delegaciones
+15.-Encuesta anual de satisfacción del vecino
 
-Realiza un resumen analítico y descriptivo de manera general o global del documento que incluya los riesgos y recomendaciones anteriores
-
-Respuesta, si este es un cierre del caso, entonces respondamos ya dándolo por cerrado de nuestra parte y despidiéndonos con un saludo cordial
-
-Puedo dar por terminada la misión y dar por cerrado el día?
-
-Vamos a responderle a Mónica y ayúdame a seleccionar los documentos a adjuntarle de los siguientes:
-1.-Guía de colaboración humano-IA y diseño de encargos
-2.-Definición de roles para herramientas de generación de texto
-3.-Metodología de estructuración cognitiva de tareas
-4.-Lineamientos de ingeniería de contexto v2
-5.-Técnicas de conducción y monitoreo de interacciones
-6.-Métricas de reclamos por consumos no reconocidos de tarjetas
-7.-Lineamientos de ingeniería de contexto v1
-8.-Base consolidada de controversias por fraudes en tarjetas
-9.-Procedimiento general de prevención de lavado de activos
-10.-Esquema de rotación de vacaciones del sector atención
-11.-Estructura de tasas de interés y cargos financieros
-12.-Contrato de mantenimiento de terminales de cobro pos
-13.-Manual de estilo y branding para canales corporativos
-14.-Instructivo operativo para arqueos diarios de tesorería
-15.-Convenio de condiciones laborales generales de trabajadores
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Cuál de las siguientes opciones selecciono?
-
 La propuesta
 
 Mónica Torres propone cargar quinientas transcripciones de llamadas reales de quejas a un sistema de IA para usarlo como sparring de entrenamiento para los operadores.
@@ -42,4 +48,4 @@ Del 0 al 100, ¿cuánta confianza tienes en estas condiciones? Lo que importa es
 
 ¿Qué te haría cambiar de opinión? Indica el dato concreto: cuál, de quién y con qué valor te llevaría a pedir otra condición o a retirar una de estas.
 Ejemplo, si X, medido por Y, diera por encima de Z, agregaría otra condición como ""
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

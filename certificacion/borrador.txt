@@ -1,0 +1,25 @@
+Detalle del ticket
+
+Detección de puntos donde se pierde información
+
+Carga estimada: 7 h
+Descripción de la tarea
+Solo lectura
+Rastrear las causas por las cuales el expediente digital de exención pierde consistencia de datos al pasar entre la secretaría de hacienda y atención ciudadana.
+
+Lo que vino con el pedido
+Adjunto
+El relevamiento del flujo base arrojó discrepancias críticas en los datos exportados entre sistemas.
+
+¿En qué caso hay que frenar y avisar?
+Qué tiene que pasar para que no se siga solo.
+
+Criterios de finalización
+Cómo sabes que quedó bien hecho, en una frase.
+
+
+
+
+Ignacio Suárez (Supervisor de Mesa de Entradas), Micaela Cortés (Coordinadora de Atención Ciudadana) y sin asignar
+
+
