@@ -1,15 +1,20 @@
 Detalle del ticket
 
-Detección de puntos donde se pierde información
+Habilitación de accesos de IA
 
-Carga estimada: 7 h
+Decidir
+
+Entra esta semana
+Se escala
+No entra
+Carga estimada: 4 h
 Descripción de la tarea
 Solo lectura
-Rastrear las causas por las cuales el expediente digital de exención pierde consistencia de datos al pasar entre la secretaría de hacienda y atención ciudadana.
+Configurar los perfiles de usuario y permisos de red en la nueva plataforma para garantizar la seguridad en el manejo de datos de los vecinos.
 
 Lo que vino con el pedido
 Adjunto
-El relevamiento del flujo base arrojó discrepancias críticas en los datos exportados entre sistemas.
+Asignación de roles técnicos en el Active Directory según el protocolo de seguridad interna.
 
 ¿En qué caso hay que frenar y avisar?
 Qué tiene que pasar para que no se siga solo.
@@ -18,8 +23,24 @@ Criterios de finalización
 Cómo sabes que quedó bien hecho, en una frase.
 
 
+Vamos a asignar los tickets. Despues de estas instrucciones para que lo tengas en el contexto, te voy pasando de a uno
+Abre cada ticket para ver el pedido completo y muévelo a la columna que corresponda. Completa responsable y criterios después de decidir.Disponible de 40 horas
 
+Las opciones para mover el ticket son: 
+1.-Entra esta semana
+2.-Se escala
+3.-No entra
 
-Ignacio Suárez (Supervisor de Mesa de Entradas), Micaela Cortés (Coordinadora de Atención Ciudadana) y sin asignar
+Las personas en cada opción son:
 
+1.-Entre esta semana:
+a.-Julián (Analista de Soporte Tecnológico) 18 horas disponibles
+b.-Gabriela (Administrativa de Atención al Vecino)  22 horas disponibles
+d.-Un agente de IA
+
+2.-Se escala:
+a.-Micaela Cortés (Coordinadora de Atención Ciudadana)
+b.-Ignacio Suárez (Supervisor de Mesa de Entradas)
+c.-Ana Reyes (Inspectora del Área de Catastro y Vivienda)
+d.-Julieta Ibáñez (Agente de Atención al Vecino)
 
