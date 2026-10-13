@@ -1,6 +1,6 @@
 Vamos a asignar los tickets. Despues de estas instrucciones para que lo tengas en el contexto, te voy pasando de a uno
 Abre cada ticket para ver el pedido completo y muévelo a la columna que corresponda. Completa responsable y criterios después de decidir.
-Disponible de 42 horas
+Disponible de 27 horas
 No se pueden dividir las tareas, la asignación de la tarea está restringida a la disponibilidad de tiempo del colaborador
 
 Las opciones para mover el ticket son: 
@@ -11,14 +11,18 @@ Las opciones para mover el ticket son:
 Las personas en cada opción son:
 
 1.-Entra esta semana:
-a.-Mateo Rossi (Asistente de Turno) 16 horas disponibles
-b.-Valentina Gómez (Coordinadora de Cajas) 12 horas disponibles
-c.-Camila Fernández (Analista de Inventario) 14 horas disponibles
+a.-Sofía (Analista de Soporte) 11 horas disponibles
+b.-Martín (Desarrollador de Integraciones) 9 horas disponibles
+c.-Luciana (Administrativa de Facturación) 7 horas disponibles
 d.-Un agente de IA
 
 2.-Se escala:
-a.Ignacio Díaz (Coordinador de Sucursal)
+a.-Ignacio Díaz (Coordinador de Sucursal)
 b.-Joaquín Acosta (Encargado de Depósito y Despacho)
+c.-Luciana Molina (Representante de los Transportistas de la Zona Norte)
+d.-Paula Rivera (Asesora de Atención al Cliente)
+e.-Elena Ferreyra (Supervisora de Ventas de Salón)
+f.-Miguel Santos (Analista de Logística y Compras Central)
 
 debes considerar: 
 
@@ -32,15 +36,15 @@ Debes darle prioridad a la opción "Entra esta semana" y asignar las tareas seg�
 y debes llevar la contabilidad de las horas disponibles de la semana y de cada colaborador, no asignes tareasa colaboradores en caso de que sobrepasen sus horas disponibles
 
 Los títulos de las tareas son:
-1.-Actualización del inventario de góndolas - 15 horas
-2.-Reclamo de proveedor por entrega fuera de hora - 10 horas
-3.-Reporte de faltantes diarios - 8 horas
-4.-Solicitud de descuento de cliente corporativo - 8 horas
-5.-Pedido de autorización a la gerencia - 12 horas
-6.-Ajuste de precios en góndolas - 10 horas
-7.-Conciliación de saldos de cajas - 12 horas
-8.-Planificación de limpieza de góndolas - 7 horas
-9.-Negociación de contrato de limpieza - 14 horas
+1.-Migrar histórico de documentos al servidor de archivos nuevo - 7 horas
+2.-Sincronizar precios del catálogo con el CRM- 5.5 horas
+3.-Reproducir error en carga de módulo de asientos contables - 6.5 horas
+4.-Verificar integridad de datos en facturación del mes anterior - 4.5 horas
+5.-Responder reclamo de cliente por entrega fuera de plazo - 5 horas
+6.-Autorizar excepciones a la política de devoluciones - 4.5 horas
+7.-Negociar condiciones de crédito con distribuidor importante - 6 horas
+8.-Responder consulta de cliente sobre opciones de envío - 4 horas
+9.-Exportar datos de stock del trimestre a formato CSV- 3 horas
 
 Con esta información realiza una preselección y una preasignación considerando las restricciones de tiempo, de roles y de las opcioones de si entra en la semana, se escala o no entra
 
@@ -50,21 +54,21 @@ Ahora te paso la información de ticket por ticket para que me los vayas asignan
 
 Detalle del ticket
 
-Exportar log de errores de plataforma
+Reproducir error en carga de módulo de asientos contables
 
 Decidir
 
 Entra esta semana
 Se escala
 No entra
-Carga estimada: 4 h
+Carga estimada: 6,5 h
 Descripción de la tarea
 Solo lectura
-Generar un archivo CSV con todos los errores del servidor de correo registrados durante el mes pasado para que soporte los analice.
+Luciana reporta que el módulo de asientos falla de forma intermitente al procesar lotes grandes. Necesita una reproducción del error con pasos exactos.
 
 Lo que vino con el pedido
 Adjunto
-Consola del administrador de sistemas del municipio.
+Logs de error con timestamp: Error en carga masiva. Este módulo de asientos se bloquea si no finalizó primero migrar histórico de documentos al servidor de archivos nuevo.
 
 ¿En qué caso hay que frenar y avisar?
 Qué tiene que pasar para que no se siga solo.

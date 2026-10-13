@@ -1,20 +1,20 @@
 
 Te muestro la lista de documentos que debemos seleccionar de los disponibles: 
 
-1.-Prioridades de reposición de la góndola de frescos
-2.-Cronograma de turnos específicos de los cajeros temporales contratados
-3.-Planilla de dotación externa contratada para fiestas
-4.-Reglamento de descansos para personal de cajas v2
-5.-Reglamento de descansos para personal de cajas v1
-6.-Acuerdo de resguardo de información de personal temporario
-7.-Historial de ventas de las fiestas del año anterior
-8.-Plan anual de mantenimiento preventivo de cámaras de frío
-9.-Registro diario de temperaturas del sector lácteos
-10.-Manual de presentación y uso de uniforme institucional
-11.-Inventario físico de góndolas de bazar y decoración festiva
-12.-Protocolo de limpieza e higiene del salón de ventas
-13.-Procedimiento operativo estándar para el arqueo de cajas
-14.-Reglamento de uso del estacionamiento para clientes
-15.-Guía de resolución de reclamos y atención al cliente
+1.-Métricas de efectividad de las recomendaciones previas de la IA sobre la sucursal
+2.-Costo logístico de los despachos de emergencia desde la central
+3.-Guía de priorización y reducción de ruido en análisis de datos
+4.-Registro de envíos especiales desde el centro de distribución
+5.-Evaluación del modelo de IA en sucursales físicas
+6.-Política de validación de resultados generados por asistentes virtuales
+7.-Convenio de tarifas logísticas con Transportes del Plata v1
+8.-Convenio de tarifas logísticas con Transportes del Plata v2
+9.-Manual de atención al público y reclamos en salón comercial
+10.-Planilla de stock anual de mobiliario de oficina
+11.-Política corporativa de reembolsos y viáticos
+12.-Resultados de la encuesta anual de clima laboral
+13.-Acta de acuerdo comercial con proveedor de climatización
+14.-Registro de servicios de mantenimiento edilicio
+15.-Protocolo de prevención de incidentes y seguridad física
 
 Vamos a responder al correo y ayúdame a seleccionar los documentos a adjuntarle de la lista anterior.

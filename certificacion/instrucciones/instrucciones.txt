@@ -17,32 +17,35 @@ Si este es un cierre del caso, entonces respondamos dándolo por cerrado de nues
 ¿Puedo dar por terminada la misión y dar por cerrado el día? ¿lo dejo por terminado y dejo avanzar el día o puedo agregar alguna decisión o acción?
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Cuál de las siguientes opciones selecciono?
 El dilema
 
-Ignacio Díaz, el Coordinador de Sucursal, te convoca a una reunión de urgencia para analizar la drástica subida de los costos de distribución local en plena temporada alta. La inteligencia artificial de la empresa acaba de emitir una recomendación automática e inmediata: rescindir el contrato con los fleteros históricos de la zona y canalizar todas las entregas a través de un operador metropolitano de bajo costo que usa algoritmos de asignación en tiempo real. En abstracto, la alternativa es impecable y promete un ahorro inmediato del 35%, pero vos sabés que no se puede ignorar el juicio contextual.
+Es principios de noviembre y la sucursal de ElectroHogar se prepara para la campaña de fin de año, el momento de mayor facturación. Ignacio Díaz, el Coordinador de la Sucursal, te presiona para que definas la orden de compra de televisores inteligentes de alta gama. Contás con una estimación de la inteligencia artificial generativa que sugiere duplicar el inventario respecto al año pasado basándose en un supuesto boom de consumo. Sin embargo, Ignacio está sumamente impaciente porque la central cierra el presupuesto de compras en pocas horas y te exige que firmes la solicitud de inmediato para no perder el cupo de distribución.
 
-Al analizar el terreno, advertís que la IA ignora las restricciones reales de la sucursal. Los fleteros locales conocen las normas implícitas de entrega en zonas complejas y tienen una relación de confianza clave con los clientes habituales, un activo invisible para el algoritmo. Ignacio te pide ayuda para fundamentar la decisión: deben evaluar si lo posible en los papeles de la corporación es realmente razonable para esta situación concreta.
+Por otro lado, tenés a un analista de la sucursal que está completamente paralizado y se niega a convalidar la orden. Argumenta que la IA generativa no elimina la incertidumbre sino que la disfraza con prosa extensa, segura y bien estructurada. Para salir de la duda, el analista te pide una semana entera para correr simulaciones adicionales, contrastar bases de datos históricas de la aduana y esperar un informe de una consultora externa. Esto significaría caer en el vicio del análisis infinito y perder el cupo asegurado para la campaña.
 
-La presión para aplicar el cambio es alta, pero las consecuencias de segundo orden de romper con los transportistas locales de confianza podrían desatar un conflicto operativo insalvable. Deben decidir qué priorizar y cómo justificar técnicamente el camino a seguir ante la gerencia regional.
+Te encontrás en el medio de la presión de Ignacio por cerrar ya con la sugerencia de la IA y la parálisis del analista que exige un nivel de certeza imposible para el plazo disponible. Debés decidir con información incompleta y responder por el resultado, sabiendo que la firma es tuya ante el cliente y ante Ignacio. Tenés que evaluar la situación distinguiendo lo reversible de lo irreversible para tomar acciones proporcionales, estableciendo supuestos explícitos y condiciones de revisión antes de estampar tu firma.
 
-1.-Implementar de inmediato la recomendación de la IA, priorizando la viabilidad técnica abstracta sobre el terreno para capturar el ahorro del 35%.
-A favor: Se logra una reducción drástica del gasto operativo de forma inmediata, cumpliendo los objetivos financieros rígidos del trimestre sin desvíos.
-En contra: Se ignora el juicio contextual de los operarios y se rompen las relaciones con actores locales clave, arriesgando el segundo orden de la operación.
-2.-Asignar solo el 20% de las nuevas entregas al operador de bajo costo como prueba piloto, manteniendo el grueso de la operación con los fleteros históricos para evaluar el terreno.
-A favor: Permite contrastar lo posible en abstracto contra lo razonable en la práctica, minimizando el impacto inicial en las relaciones con los actores locales.
-En contra: No se captura el ahorro proyectado de forma inmediata y se posterga una definición clara en un momento de urgencia presupuestaria.
-3.-Rechazar la propuesta de la IA fundamentando que el juicio contextual demuestra que la alternativa abstracta es dañina en esta situación concreta.
-A favor: Se cuidan las normas implícitas, los precedentes de confianza y se evita una reacción de segundo orden que paralice las entregas en zonas difíciles.
-En contra: Se mantiene la estructura de costos elevados y se debe enfrentar una justificación compleja ante la dirección general por no adoptar la tecnología.
-4.-Suspender la implementación por dos semanas para coordinar una mesa de trabajo que analice las restricciones reales de la sucursal antes de actuar.
-A favor: Permite leer el terreno en profundidad junto a Ignacio Díaz para documentar qué habilita o rompe la decisión antes de realizar cualquier cambio.
-En contra: Demora la resolución de una crisis de costos urgente en plena temporada de alta demanda, prolongando la ineficiencia financiera.
-5.-Adoptar el sistema de la IA pero reservando un cupo fijo de entregas complejas para los fleteros locales, resguardando el conocimiento del terreno.
-A favor: Combina la eficiencia del algoritmo con el juicio contextual necesario para las zonas que presentan restricciones reales no escritas en los mapas digitales.
-En contra: Requiere una parametrización manual constante que reduce la eficiencia teórica del modelo y duplica las tareas de control de Ignacio Díaz.
-Otro: mi propia alternativa
-6.-Si ninguna de las anteriores refleja lo que harías, escribe tu alternativa. Tiene que ser concreta: qué harías, no por qué.
+Cuál de las siguientes opciones selecciono?
+
+1.-Firmar la orden sugerida por la IA en su totalidad para asegurar el cupo máximo de stock, asumiendo la responsabilidad total por el resultado.
+A favor: Se garantiza el stock para abastecer la demanda proyectada sin perder prioridad frente a otras sucursales, actuando bajo el supuesto de que el mercado reaccionará positivamente.
+En contra: Se asume un riesgo financiero enorme bajo un compromiso irreversible si el mercado no responde como la IA predijo, sin un plan de mitigación.
+
+2.-Rechazar la firma inmediata y otorgar al analista el tiempo que pide para procesar más datos antes de decidir.
+A favor: Permite decidir con menor incertidumbre al incorporar variables clave como las nuevas regulaciones impositivas que la IA pudo haber omitido.
+En contra: Se cae en el vicio del análisis infinito y se pierde definitivamente el cupo reservado por la central, dejando a la sucursal con desabastecimiento.
+
+3.-Firmar únicamente una orden por el 50% del cupo como un despliegue limitado, estableciendo una métrica de revisión semanal para ampliar el pedido si la demanda se confirma.
+A favor: Se toma una acción proporcional distinguiendo lo reversible de lo irreversible, resguardando la firma propia y limitando la exposición financiera de la sucursal.
+En contra: Se reduce el stock inicial disponible para los primeros días de la campaña navideña, lo que podría generar quiebres de inventario temporales.
+
+4.-Firmar la orden total pero redactando un documento de supuestos explícitos sobre las condiciones impositivas que, si varían, activarán la devolución inmediata del excedente de stock a la central.
+A favor: Permite asegurar el cupo total mientras se asume una posición revisable y no dogmática frente a las proyecciones de la IA.
+En contra: La central puede rechazar los supuestos y la condición de revisión impuesta, cancelando el envío completo de televisores por falta de acuerdo administrativo.
+
+5.-Otro: mi propia alternativa
+Si ninguna de las anteriores refleja lo que harías, escribe tu alternativa. Tiene que ser concreta: qué harías, no por qué.
+
 
 Del 0 al 100, ¿cuánta confianza tienes en estas condiciones? Lo que importa es que el número refleje tu certeza real, no que sea alto.
 
