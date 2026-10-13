@@ -19,33 +19,36 @@ Si este es un cierre del caso, entonces respondamos dándolo por cerrado de nues
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 El dilema
 
-Es principios de noviembre y la sucursal de ElectroHogar se prepara para la campaña de fin de año, el momento de mayor facturación. Ignacio Díaz, el Coordinador de la Sucursal, te presiona para que definas la orden de compra de televisores inteligentes de alta gama. Contás con una estimación de la inteligencia artificial generativa que sugiere duplicar el inventario respecto al año pasado basándose en un supuesto boom de consumo. Sin embargo, Ignacio está sumamente impaciente porque la central cierra el presupuesto de compras en pocas horas y te exige que firmes la solicitud de inmediato para no perder el cupo de distribución.
+Estás en Delicias del Campo en una semana crucial. El acuerdo con la gran cadena de dietéticas exige entregar el pedido más grande de la historia de la distribuidora el próximo viernes, sin el menor margen de error en las cantidades. Ignacio Pérez, el encargado de stock, usó un asistente de inteligencia artificial para consolidar las planillas de inventario de las últimas tres semanas y calcular cuántos kilos de frutos secos y harinas especiales se deben pedir a los proveedores. Ignacio confió en la tabla que generó el sistema porque la fluidez del texto y la redacción del resumen eran impecables, y los números parecían perfectamente alineados.
 
-Por otro lado, tenés a un analista de la sucursal que está completamente paralizado y se niega a convalidar la orden. Argumenta que la IA generativa no elimina la incertidumbre sino que la disfraza con prosa extensa, segura y bien estructurada. Para salir de la duda, el analista te pide una semana entera para correr simulaciones adicionales, contrastar bases de datos históricas de la aduana y esperar un informe de una consultora externa. Esto significaría caer en el vicio del análisis infinito y perder el cupo asegurado para la campaña.
+Hace diez minutos, mientras Joaquín Gómez preparaba las fichas de los productos, notó que la IA reportó que el stock de harina de almendras de la semana pasada era de 450 kilos en el depósito secundario, un depósito que la PyME cerró definitivamente hace un mes. Al revisar el chat de Ignacio, descubriste que el sistema inventó ese dato con absoluta seguridad para rellenar un bache de información en las planillas que le subieron. Como el modelo predice y no sabe realmente, generó la verdad cuando los patrones alcanzaban y la inventó cuando no, con idéntico tono en ambos casos. La alucinación no fue una falla excepcional, sino el funcionamiento normal de un sistema que solo sabe lo que le diste, el cual degradó el análisis de la planilla debido a los límites de su ventana de contexto.
 
-Te encontrás en el medio de la presión de Ignacio por cerrar ya con la sugerencia de la IA y la parálisis del analista que exige un nivel de certeza imposible para el plazo disponible. Debés decidir con información incompleta y responder por el resultado, sabiendo que la firma es tuya ante el cliente y ante Ignacio. Tenés que evaluar la situación distinguiendo lo reversible de lo irreversible para tomar acciones proporcionales, estableciendo supuestos explícitos y condiciones de revisión antes de estampar tu firma.
+El problema es que Ignacio ya envió los pedidos de compra a los proveedores basándose en ese reporte consolidado. Andrea Soto está sumamente preocupada por el impacto financiero de corregir o mantener las órdenes de compra de inmediato. Te pide que decidas cómo vas a calibrar la confianza y verificación proporcional sobre este reporte y los pedidos de compra antes de que los proveedores comiencen a despachar la mercadería esta tarde.
 
 Cuál de las siguientes opciones selecciono?
 
-1.-Firmar la orden sugerida por la IA en su totalidad para asegurar el cupo máximo de stock, asumiendo la responsabilidad total por el resultado.
-A favor: Se garantiza el stock para abastecer la demanda proyectada sin perder prioridad frente a otras sucursales, actuando bajo el supuesto de que el mercado reaccionará positivamente.
-En contra: Se asume un riesgo financiero enorme bajo un compromiso irreversible si el mercado no responde como la IA predijo, sin un plan de mitigación.
+1.-Detener todos los despachos con los proveedores y exigir un recuento manual total en el almacén como fuente primaria única para revalidar cada cifra
+A favor: Aplica una desconfianza total ante el costo del error, asegurando la precisión de cada lote mediante verificación externa directa
+En contra: Ignora que verificar todo destruye el valor de usar la herramienta y causa retrasos graves en la entrega pactada
 
-2.-Rechazar la firma inmediata y otorgar al analista el tiempo que pide para procesar más datos antes de decidir.
-A favor: Permite decidir con menor incertidumbre al incorporar variables clave como las nuevas regulaciones impositivas que la IA pudo haber omitido.
-En contra: Se cae en el vicio del análisis infinito y se pierde definitivamente el cupo reservado por la central, dejando a la sucursal con desabastecimiento.
+2.-Tomar la tabla de la IA como un borrador útil agregando un margen de seguridad del 20 por ciento en los productos de alto valor sin verificar físicamente
+A favor: Evita demoras en la preparación del pedido al tratar el resultado de la IA como evidencia que no requiere freno de operaciones
+En contra: Muestra una debilidad ante la persuasión algorítmica al asumir que el resto de las cifras inventadas por el modelo son aceptables
 
-3.-Firmar únicamente una orden por el 50% del cupo como un despliegue limitado, estableciendo una métrica de revisión semanal para ampliar el pedido si la demanda se confirma.
-A favor: Se toma una acción proporcional distinguiendo lo reversible de lo irreversible, resguardando la firma propia y limitando la exposición financiera de la sucursal.
-En contra: Se reduce el stock inicial disponible para los primeros días de la campaña navideña, lo que podría generar quiebres de inventario temporales.
+3.-Calibrar la verificación de forma proporcional al costo del error, auditando manualmente solo los cinco productos de mayor valor que concentran el riesgo financiero
+A favor: Optimiza el esfuerzo de control humano enfocando la desconfianza selectiva en los puntos donde el impacto de la alucinación es crítico
+En contra: Asume de forma optimista que el resto de los productos de bajo costo no presentan anomalías que afecten la entrega del pedido
 
-4.-Firmar la orden total pero redactando un documento de supuestos explícitos sobre las condiciones impositivas que, si varían, activarán la devolución inmediata del excedente de stock a la central.
-A favor: Permite asegurar el cupo total mientras se asume una posición revisable y no dogmática frente a las proyecciones de la IA.
-En contra: La central puede rechazar los supuestos y la condición de revisión impuesta, cancelando el envío completo de televisores por falta de acuerdo administrativo.
+4.-Usar la misma IA para pedirle un contraargumento sobre sus propias cifras de stock, buscando inconsistencias lógicas en el mismo chat
+A favor: Permite contrastar la consistencia de los datos en pocos minutos y sin necesidad de movilizar personal al almacén
+En contra: Se apoya en la persuasión de la herramienta, que puede sostener la invención con total fluidez lingüística y convencer al operario
 
-5.-Otro: mi propia alternativa
+5.-Pausar únicamente los pedidos de los productos bajo sospecha directa y enviar a Ignacio a revalidar físicamente esos lotes específicos
+A favor: Resuelve la inconsistencia del depósito cerrado aplicando un control localizado sin detener toda la cadena de abastecimiento
+En contra: No establece una regla clara sobre qué nivel de error en los datos menores estamos dispuestos a tolerar para el gran cliente
+
+6.-Otro: mi propia alternativa
 Si ninguna de las anteriores refleja lo que harías, escribe tu alternativa. Tiene que ser concreta: qué harías, no por qué.
-
 
 Del 0 al 100, ¿cuánta confianza tienes en estas condiciones? Lo que importa es que el número refleje tu certeza real, no que sea alto.
 
